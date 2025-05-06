@@ -1,0 +1,20 @@
+/*CDN Link - Gooogle font Family */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Poppins" , sans-serif ;
+}
+#main-section{
+    border: 3px rgb(110, 192, 16); 
+    width: 550px;
+    height: 250px;
+    margin: 80px auto;
+    border-radius: 10px;
+}
+#profile-info{
+    border: 3px rgb(179, 45, 45);
+    display: inline block;
+}
